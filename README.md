@@ -66,7 +66,7 @@ Image XCOM2
 Interestingly, you can alterate the difficulty of a game by including random generated elements (loot,champion enemies), duengon crawlers with random generated runs do this a lot ( **The Binding of Isaac** ) but also battle royale.
 Random elements also make the player not feel as bad when they lose because they can always blame their loss on dumb luck. 
 
-* In this kind of games skill is not determined with how good you do in the game but with how consistent you can get results playing this game
+-In this kind of games skill is not determined with how good you do in the game but with how consistent you can get results playing this game
 
 ### Multiplayer Games
 
@@ -75,11 +75,17 @@ Random elements also make the player not feel as bad when they lose because they
 ## Mechanisms to altarete difficulty in games
 
 Change Life and Damage of enemies.
+
 Require different amounts of things from the player (precision, fastest reaction).
+
 Changing the rules of the game. (Cooldowns)
+
 Change the amount of rewards.
+
 Punishing different amounts (Less money when die).
+
 Changing the patterns of enemies.
+
 Changin the position of enemies.
 
 
