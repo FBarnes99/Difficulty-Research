@@ -46,7 +46,7 @@ Fairness makes reference to the idea that videogames have laws and this laws are
 Making something unfair to make it harder is frustraiting but if you want to make a game difficult and frustraiting is a very good option, it might seem a way to shoot yourself on the foot and it is a very artificial way to make something difficult but it is an option.
 
 IMAGE I WANNA BE THE GY
-*I wanna be the guy'*
+*I wanna be the guy*
 
 The creators of **I wanna be the guy** wanted to make a difficult videogame so he filled with unfair things.
 
