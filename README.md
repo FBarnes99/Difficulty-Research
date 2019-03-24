@@ -23,18 +23,21 @@ Accesibility is all about easing in the player into the game, explaining how the
 This does not mean you are doing the game overall easier, the idea is that more people will be able to play the game.
 
 IMAGE CELESTE ASSIST MODE  
+*Celeste's Assist mode*
 
 As I said before **Celeste**'s assist mode is a very good example of making a hard game inclusive to a lot of people 
 
 IMAGE LOL CONTROLL MAPPING
+*League of Legends controller remapping system*
 
-And **League of Legends** has quite a good controller mapping personalization.
+And **League of Legends** has quite a good controller mapping personalization, letting you change everything that allows you to interact with the game.
 
 ### Depth
 
 Depth, the number of playable options that you have while playing a videogame, depth explains the practical complexity of a game. It's not about that the game has a lot of different things you can do in a game, is in how many ways you can solve a situation. In many videogames this is confused with adding different separated elements, that feel like the game is moslty "fluff".
 
 IMAGE DARKSOULS CHARACTER
+*Dark Souls character creation*
 
 **Dark Souls** although having a pretty simple game combat system, that would be rolling and hitting or shooting things. The game allows you to decide how to do this things in many ways, you can move slower and have more resistance, hit harder but hit less times than quicker weapons, etc.
 
@@ -43,6 +46,7 @@ Fairness makes reference to the idea that videogames have laws and this laws are
 Making something unfair to make it harder is frustraiting but if you want to make a game difficult and frustraiting is a very good option, it might seem a way to shoot yourself on the foot and it is a very artificial way to make something difficult but it is an option.
 
 IMAGE I WANNA BE THE GY
+*I wanna be the guy'*
 
 The creators of **I wanna be the guy** wanted to make a difficult videogame so he filled with unfair things.
 
@@ -52,32 +56,40 @@ The more you forgive the mistakes of a player easier it will feel, the same way 
 But specially depending of what you want to make the player feel, you can have a lot of margin to try things to feel freedom ( **The Legend of Zelda: Breath of the Wild** ) or very fast respawn time to feel urgency ( **Super Meat Boy** ), or in plataformers like **Shovel Knight** if you fail it only sends you to the previous room and lets you recover part of your lose money so you can keep trying without a major pushback.
 
 Image MGS5
+*Metal Gear Solid 5 : The Phantom Pain*
 
 In **Metal Gear Solid 5 : The Phantom Pain** and a lot of other stealth games, enemies do not spot you immediatly and that gives you a chance of correct your mistakes and create a more tense experience.
 
 In the other hand, punishing the player hardly, makes it think about its decisions and incentivises the player to play more strategically.
 
 Image XCOM2
+*XCOM 2*
 
 **XCOM 2** the mechanic that soldiers die forever makes you act very carefully and not recklessly
 
 ### Randomness
 
-Interestingly, you can alterate the difficulty of a game by including random generated elements (loot,champion enemies), duengon crawlers with random generated runs do this a lot ( **The Binding of Isaac** ) but also battle royale.
+Interestingly, you can alterate the difficulty of a game by including random generated elements (loot,champion enemies), duengon crawlers with random generated runs do this a lot ( **The Binding of Isaac** ) but also battle royales ( **Apex Legends** ).
 Random elements also make the player not feel as bad when they lose because they can always blame their loss on dumb luck. 
 
 (In this kind of games skill is not determined with how good you do in the game but with how consistent you can get results playing this game)
+
+IMAGE
+*Apex Legends*
 
 ### Multiplayer Games
 
 Multiplayer games cahnge a lot about difficulty because you are basically changing an AI for a human.
 
-On top of all of the previous aspects your game can also be a multiplayer experience, people fighting other people is not usually cuantifiable in a difficulty scale, it depends mainly on the difference in skill beetween players and sometimes the cooperation between players. There are a lot of differences betwen challenging a bot and a human, most importantly is about decision making and unpredictability, different to AI that have patterns, humans have techniques and things that they are used to do but people is not constant, unpredictable. 
+On top of all of the previous aspects your game can also be a multiplayer experience, people fighting other people is not usually cuantifiable in a difficulty scale. It depends mainly on the difference in skill beetween players and sometimes the cooperation between players, this is usually fixed by doing matchmaking, sorting the players by skill levels . 
+There are a lot of differences betwen challenging a bot and a human, most importantly is about decision making and unpredictability, different to AI that have patterns, humans have techniques and things that they are used to do but people is not constant, unpredictable. 
 
 (As i have researched AI are not programmed to play like humans because that would make them too powerfull, and most people probably could not beat it)
 
 Thats how playing against good people feels frustraiting sometimes, people punishes other people as hard as possible and people obviously does not forgive mistakes. 
 But to sumarize, how people acts against others in a game has to be managed while you set all the otheraspects of the difficulty of the game.
+
+*COD 4 match*
 
 ## Difficulty curves
 
