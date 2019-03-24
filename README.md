@@ -6,7 +6,7 @@ Videogames differently of other mainstream art forms are an interactive media, i
 
 IMAGE 1
 
-Starting with a more general viewing of difficulty I propose an hypothetical: You face something unknown that opposes you and you have the objective to overcome it. This situation would be a challenge by definition, then, thinking about what variables would affect the difficulty of this challenge. The most basic things that can change are the knowledge of the user about the opposing situation and the ability of the user to physically overcome it. Like this we can divide the interaction of the user with the obstacle in 2 parts: how the user understands the situations (Knowdledge), ans the ability to execute the process necessary(Skill).
+Starting with a more general viewing of difficulty I propose an hypothetical: You face something unknown that opposes you and you have the objective to overcome it. This situation would be a challenge by definition, then, thinking about what variables would affect the difficulty of this challenge. The most basic things that can change are the knowledge of the user about the opposing situation and the ability of the user to physically overcome it. Like this we can divide the interaction of the user with the obstacle in 2 parts: how the user understands the situations (Knowdledge), ans the ability to execute the process necessary (Skill).
 
 IMAGE 2
 
@@ -66,27 +66,40 @@ Image XCOM2
 Interestingly, you can alterate the difficulty of a game by including random generated elements (loot,champion enemies), duengon crawlers with random generated runs do this a lot ( **The Binding of Isaac** ) but also battle royale.
 Random elements also make the player not feel as bad when they lose because they can always blame their loss on dumb luck. 
 
--In this kind of games skill is not determined with how good you do in the game but with how consistent you can get results playing this game
+(In this kind of games skill is not determined with how good you do in the game but with how consistent you can get results playing this game)
 
 ### Multiplayer Games
 
+Multiplayer games cahnge a lot about difficulty because you are basically changing an AI for a human.
+
+On top of all of the previous aspects your game can also be a multiplayer experience, people fighting other people is not usually cuantifiable in a difficulty scale, it depends mainly on the difference in skill beetween players and sometimes the cooperation between players. There are a lot of differences betwen challenging a bot and a human, most importantly is about decision making and unpredictability, different to AI that have patterns, humans have techniques and things that they are used to do but people is not constant, unpredictable. 
+
+(As i have researched AI are not programmed to play like humans because that would make them too powerfull, and most people probably could not beat it)
+
+Thats how playing against good people feels frustraiting sometimes, people punishes other people as hard as possible and people obviously does not forgive mistakes. 
+But to sumarize, how people acts against others in a game has to be managed while you set all the otheraspects of the difficulty of the game.
+
 ## Difficulty curves
+
+Difficulty curves are a visual representation of the difficulty of a game throughout the course of the experience.
+There are many diffirent types of difficulty curves that are affected by 4 factors: Accesibility, Time, Pacing, Difficulty Ceiling (Final level of skill and knowledge).
+This is not how the player will experience the games as much as the main idea of the design team of how hard to make every part in a general way.
 
 ## Mechanisms to altarete difficulty in games
 
-Change Life and Damage of enemies.
+* Change Life and Damage of enemies.
 
-Require different amounts of things from the player (precision, fastest reaction).
+* Require different amounts of things from the player (precision, fastest reaction).
 
-Changing the rules of the game. (Cooldowns)
+* Changing the rules of the game. (Cooldowns)
 
-Change the amount of rewards.
+* Change the amount of rewards.
 
-Punishing different amounts (Less money when die).
+* Punishing different amounts (Less money when die).
 
-Changing the patterns of enemies.
+* Changing the patterns of enemies.
 
-Changin the position of enemies.
+* Changin the position of enemies.
 
 
 **Bold** and _Italic_ and `Code` text
