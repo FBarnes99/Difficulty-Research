@@ -72,7 +72,7 @@ The creators of **I wanna be the guy** wanted to make a difficult videogame so h
 ### Forgiveness & Punishment
 
 The more you forgive the mistakes of a player easier it will feel, the same way if you do not forgive enough the players will be forced to quicksave or repeat big chunks of the game this way hurting the pacing of the game. Also forgiving more mistakes makes the player stay on edge and not try to restart a save every time something bad happens.
-But specially depending of what you want to make the player feel, you can have a lot of margin to try things to feel freedom ( **The Legend of Zelda: Breath of the Wild** ) or very fast respawn time to feel urgency ( **Super Meat Boy** ), or in plataformers like **Shovel Knight** if you fail it only sends you to the previous room and lets you recover part of your lose money so you can keep trying without a major pushback.
+But specially depending of what you want to make the player feel, you can have a lot of margin to try things to feel freedom ( **The Legend of Zelda: Breath of the Wild** ) or very fast respawn time to feel urgency ( **Super Meat Boy** ), or in plataformers like **Shovel Knight** on top of having multiple hits of life if you fail it only sends you to the previous checkpoint and lets you recover part of your lost money so you can keep trying without a major pushback.
 
 <p align="center">
   <img src= "https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Metal-Gear-Solid-V-The-Phantom-Pain-Screenshot-7_1.jpg?raw=true" >
