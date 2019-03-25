@@ -227,7 +227,7 @@ This are some of the different techniques used to manage different difficulties 
 ### Resources
 [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/)
 
-[Reddit](https://www.reddit.com/r/NintendoSwitch/comments/7tkcen/how_is_celestes_assist_mode/)
+[Reddit - Celeste's Assist Mode Post](https://www.reddit.com/r/NintendoSwitch/comments/7tkcen/how_is_celestes_assist_mode/)
 
 [Game Wisdom Article - Depth in videogames](http://game-wisdom.com/critical/depth-game-design)
 
