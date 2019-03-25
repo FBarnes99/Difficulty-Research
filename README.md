@@ -122,11 +122,12 @@ Difficulty curves are a visual representation of the difficulty of a game throug
 There are many diffirent types of difficulty curves that are affected by 4 factors: Accesibility, Time, Pacing, Difficulty Ceiling (Final level of skill and knowledge).
 This is not how the player will experience the games as much as the main idea of the design team of how hard to make every part in a general way.
 
+
 ## Mechanisms to altarete difficulty in games
 
 This are some of the different techniques used to manage different difficulties in videogames.
 
-### Change Life and Damage of enemies.__
+### Change Life and Damage of enemies.
 
 -This process consists of changing the time that it takes to an enemie to die and the speed at which they kill you.
   
@@ -134,6 +135,16 @@ This are some of the different techniques used to manage different difficulties 
 * Cons: It negatively affect the pacing of the game and to experienced players can feel more annoying than difficult. 
     
 -Example: **Skyrim**'s diffuclty selection. 
+
+### Changing the amount of resources.
+
+-This process consists of changing the amount of "material" (ammunition, currency, etc) given to the player at any point. R
+
+* Pros: Easy to balance out.
+* Cons: Requires a lot of testing to get it right, too little and the player will loose interest and too many and the player will feel choked.  
+    
+-Example: **Metro 2033** in different difficulties ammunition (that is also used as currency) is very specifically managed to help or strangle the player 
+
 
 ### Different rewards.
 
@@ -144,6 +155,7 @@ This are some of the different techniques used to manage different difficulties 
     
 -Example: **Tom Clancys Splinter Cell: Blacklist** gives symbolical rewards for stealth achievements.
 
+
 ### Changing the rules of the game. 
 
 -This process consists of changing the skill and experience required by the game for the player.
@@ -152,6 +164,7 @@ This are some of the different techniques used to manage different difficulties 
 * Cons: Quite expensive to make.  
     
 -Example:**Celeste**'s Assist mode.
+
 
 ### Punishing different amounts .
 
@@ -162,6 +175,7 @@ This are some of the different techniques used to manage different difficulties 
     
 -Example:**Metal Gear Solid 5 : The Phantom Pain** in different difficulties it punishes the same mistake harder, by the enemies spoting you faster in harder modes the game can punish the same mistake distinctly.    
 
+
 ### Changing the patterns of enemies.
 
 -This process consists of using already seen enemies and changing the patterns of them in different difficulties or stages of the game.
@@ -169,9 +183,10 @@ This are some of the different techniques used to manage different difficulties 
 * Pros: Adds replayability by making different difficulties essentially different.
 * Cons: Very expensive to do and many player probably wont see it.  
     
--Example: **Kingdom Hearts 2**
+-Example: **Kingdom Hearts 2** changes the attack patterns of bosses to make them harder.
 
-### Changin the position of enemies.
+
+### Changing the position of enemies.
 
 -This process consists of changing the position of enemies giving or taking strategical advantage.
 
@@ -180,23 +195,33 @@ This are some of the different techniques used to manage different difficulties 
     
 -Example: **XCOM 2** reuses different maps and changes the position of the player and the enemies to make already seen situations interesting.
 
--Example: Metro Balas Money 
-### Resources
--Game Accessibility Guidelines http://gameaccessibilityguidelines.com/
 
--Reddit https://www.reddit.com/r/NintendoSwitch/comments/7tkcen/how_is_celestes_assist_mode/
+
+
+
+### Resources
+-Game Accessibility Guidelines - http://gameaccessibilityguidelines.com/
+
+-Reddit - https://www.reddit.com/r/NintendoSwitch/comments/7tkcen/how_is_celestes_assist_mode/
 
 -Game Wisdom Article - Depth in videogames http://game-wisdom.com/critical/depth-game-design
 
 -Game Wisdom Article - Accessibility in the souls series http://game-wisdom.com/critical/souls-series-accessible
 
--I wanna be the guy Main page http://kayin.moe/iwbtg/index.php
+-I wanna be the guy Main page - http://kayin.moe/iwbtg/index.php
 
--The Verge article - DeepMind’s AI agents conquer human pros at StarCraft II  https://www.theverge.com/2019/1/24/18196135/google-deepmind-ai-starcraft-2-victory
+-The Verge article - DeepMind’s AI agents conquer human pros at StarCraft II  - https://www.theverge.com/2019/1/24/18196135/google-deepmind-ai-starcraft-2-victory
 
--Gamasutra Article - Difficulty curves http://www.gamasutra.com/blogs/JimmyLarsen/20100524/5219/Difficulty_Curves.php
+-Gamasutra Article - Difficulty curves - http://www.gamasutra.com/blogs/JimmyLarsen/20100524/5219/Difficulty_Curves.php
 
--Game Accessibility Guidelines http://gameaccessibilityguidelines.com/
+-Game Accessibility Guidelines - http://gameaccessibilityguidelines.com/
+
+-Playing Past Your Mistakes | Game Maker's Toolkit - https://www.youtube.com/watch?v=Go0BQugwGgM
+
+-What Makes Celeste's Assist Mode Special | Game Maker's Toolkit - https://www.youtube.com/watch?v=NInNVEHj_G4
+
+-How Cuphead's Bosses (Try to) Kill You | Game Maker's Toolkit - https://www.youtube.com/watch?v=F8T6Ul4aHTI
+
 
 ### Image Resources
 
