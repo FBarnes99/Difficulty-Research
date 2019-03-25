@@ -221,7 +221,14 @@ This are some of the different techniques used to manage different difficulties 
 -Example: **XCOM 2** reuses different maps and changes the position of the player and the enemies to make already seen situations interesting.
 
 
+### Randomizing some part of the game
 
+-This process consists of using random generated numbers to alterate some part of the game.
+
+* Pros: It makes mechanics of the game more interesting by making the new everytime.
+* Cons: This system has to be balanced so the players do not get frustrated  
+    
+-Example: **XCOM 2** reuses different maps and changes the position of the player and the enemies to make already seen situations interesting.
 
 
 ### Resources
