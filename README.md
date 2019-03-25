@@ -11,9 +11,8 @@ Videogames differently of other mainstream art forms are an interactive media, i
 Starting with a more general viewing of difficulty I propose an hypothetical: You face something unknown that opposes you and you have the objective to overcome it. This situation would be a challenge by definition, then, thinking about what variables would affect the difficulty of this challenge. The most basic things that can change are the knowledge of the user about the opposing situation and the ability of the user to physically overcome it. Like this we can divide the interaction of the user with the obstacle in 2 parts: how the user understands the situations (Knowdledge), ans the ability to execute the process necessary (Skill).
 
 <p align="center">
-  <img src="https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Graphic.png" >
+  <img src= "https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Graphic.png?raw=true" >
 </p>
-
 *Graphic of player-objective interaction*
 
 We can see difficulty as a "dialogue" between the user and this hardship, as a persons knowdlege and skill increases the difficulty of something lowers to the point that if you knew everything about something and the ability required to execute it, difficulty dissapears and this "dialogue" becomes a meaningless work.
@@ -127,8 +126,9 @@ Difficulty curves are a visual representation of the difficulty of a game throug
 There are many diffirent types of difficulty curves that are affected by 4 factors: Accesibility, Time, Pacing, Difficulty Ceiling (Final level of skill and knowledge).
 This is not how the player will experience the games as much as the main idea of the design team of how hard to make every part in a general way.
 
+
 <p align="center">
-  <img src="https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Research.png?raw=true" >
+  <img src= "https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Research.png?raw=true" >
 </p>
 
 *General difficulty curve*
@@ -137,8 +137,9 @@ In this example of a difficulty curve the game is divided in 3 parts: Introducti
 
 Next there is an example of the difficulty curve for **Dark Souls**
 
+
 <p align="center">
-  <img src="https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Research1.png?raw=true" >
+  <img src= "https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Research1.png?raw=true" >
 </p>
 
 *Example of difficulty curve: **Dark Souls** *
