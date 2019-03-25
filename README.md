@@ -79,7 +79,7 @@ In **Metal Gear Solid 5 : The Phantom Pain** and a lot of other stealth games, e
 In the other hand, punishing the player hardly, makes it think about its decisions and incentivises the player to play more strategically.
 
 <p align="center">
-< img src=" https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/438469404.jpg?raw=true" >
+<img src= "https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/438469404.jpg?raw=true" >
  </p>
  
 *XCOM 2*
