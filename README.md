@@ -114,6 +114,7 @@ There are a lot of differences betwen challenging a bot and a human, most import
 
 Thats how playing against good people feels frustraiting sometimes, people punishes other people as hard as possible and people obviously does not forgive mistakes. 
 But to sumarize, how people acts against others in a game has to be managed while you set all the otheraspects of the difficulty of the game.
+
 <p align="center">
 <img src="https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/maxresdefault.jpg?raw=true" >
   </p>
@@ -127,7 +128,7 @@ There are many diffirent types of difficulty curves that are affected by 4 facto
 This is not how the player will experience the games as much as the main idea of the design team of how hard to make every part in a general way.
 
 <p align="center">
-  <img src="https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Research.png" >
+  <img src="https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Research.png?raw=true" >
 </p>
 
 *General difficulty curve*
@@ -135,8 +136,9 @@ This is not how the player will experience the games as much as the main idea of
 In this example of a difficulty curve the game is divided in 3 parts: Introduction, the time you introduce the player to the game and how to play it; Main game, most of the game is situated in this curve, in this section the player is learning to play the game and the game should go increasing in difficulty while the player is getting more skilled; Late game, as the game is getting closer to the difficulty ceiling the player starts using all his accumulated experience to face the hardest challenges of the game, the player has to feel rewarded for his effort in the course of the game. The more difference there is between the starting difficulty of the game and the difficulty ceiling the more accessible the game will be.
 
 Next there is an example of the difficulty curve for **Dark Souls**
+
 <p align="center">
-  <img src="https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Research1.png" >
+  <img src="https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Research1.png?raw=true" >
 </p>
 
 *Example of difficulty curve: **Dark Souls** *
@@ -235,11 +237,11 @@ This are some of the different techniques used to manage different difficulties 
 
 -Game Accessibility Guidelines - http://gameaccessibilityguidelines.com/
 
--Playing Past Your Mistakes | Game Maker's Toolkit - https://www.youtube.com/watch?v=Go0BQugwGgM
+-Playing Past Your Mistakes-Game Maker's Toolkit - https://www.youtube.com/watch?v=Go0BQugwGgM
 
--What Makes Celeste's Assist Mode Special | Game Maker's Toolkit - https://www.youtube.com/watch?v=NInNVEHj_G4
+-What Makes Celeste's Assist Mode Special - Game Maker's Toolkit - https://www.youtube.com/watch?v=NInNVEHj_G4
 
--How Cuphead's Bosses (Try to) Kill You | Game Maker's Toolkit - https://www.youtube.com/watch?v=F8T6Ul4aHTI
+-How Cuphead's Bosses (Try to) Kill You - Game Maker's Toolkit - https://www.youtube.com/watch?v=F8T6Ul4aHTI
 
 
 ### Image Resources
