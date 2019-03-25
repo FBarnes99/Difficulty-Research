@@ -126,7 +126,7 @@ This is not how the player will experience the games as much as the main idea of
 
 This are some of the different techniques used to manage different difficulties in videogames.
 
-###__Change Life and Damage of enemies.__
+### Change Life and Damage of enemies.__
 
 -This process consists of changing the time that it takes to an enemie to die and the speed at which they kill you.
   
@@ -135,7 +135,7 @@ This are some of the different techniques used to manage different difficulties 
     
 -Example: **Skyrim**'s diffuclty selection. 
 
-###__Different rewards.__
+### Different rewards.
 
 -This process consists of changing the rewards given to a player depending on performance.
 
@@ -144,7 +144,7 @@ This are some of the different techniques used to manage different difficulties 
     
 -Example: **Tom Clancys Splinter Cell: Blacklist** gives symbolical rewards for stealth achievements.
 
-###__Changing the rules of the game. __
+### Changing the rules of the game. 
 
 -This process consists of changing the skill and experience required by the game for the player.
 
@@ -153,7 +153,7 @@ This are some of the different techniques used to manage different difficulties 
     
 -Example:**Celeste**'s Assist mode.
 
-###__Punishing different amounts .__
+### Punishing different amounts .
 
 -This process consists of changing the affect of the players mistakes and how are percieved.
 
@@ -162,7 +162,7 @@ This are some of the different techniques used to manage different difficulties 
     
 -Example:**Metal Gear Solid 5 : The Phantom Pain** in different difficulties it punishes the same mistake harder, by the enemies spoting you faster in harder modes the game can punish the same mistake distinctly.    
 
-###__Changing the patterns of enemies.__
+### Changing the patterns of enemies.
 
 -This process consists of using already seen enemies and changing the patterns of them in different difficulties or stages of the game.
 
@@ -171,7 +171,7 @@ This are some of the different techniques used to manage different difficulties 
     
 -Example: **Kingdom Hearts 2**
 
-###__Changin the position of enemies.__
+### Changin the position of enemies.
 
 -This process consists of changing the position of enemies giving or taking strategical advantage.
 
