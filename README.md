@@ -125,7 +125,7 @@ This is not how the player will experience the games as much as the main idea of
 
 This are some of the different techniques used to manage different difficulties in videogames.
 
-* Change Life and Damage of enemies.
+<u>Change Life and Damage of enemies.</u>
 
 -This process consists of changing the time that it takes to an enemie to die and the speed at which they kill you.
     * Pros: Easy and cheap to do.
@@ -133,7 +133,7 @@ This are some of the different techniques used to manage different difficulties 
     
 -Example: **Skyrim**'s diffuclty selection. 
 
-* Different rewards.
+<u>Different rewards.</u>
 
 -This process consists of changing the rewards given to a player depending on performance.
     * Pros: If the rewards are purely symbolical this method works great for all kinds of players.
@@ -141,7 +141,7 @@ This are some of the different techniques used to manage different difficulties 
     
 -Example: **Tom Clancys Splinter Cell: Blacklist** gives symbolical rewards for stealth achievements.
 
-* Changing the rules of the game. 
+<u>Changing the rules of the game. </u>
 
 -This process consists of changing the skill and experience required by the game for the player.
     * Pros: It takes in consideration the different types of player, very inclusive for begginers and difficult for experts.
@@ -149,7 +149,7 @@ This are some of the different techniques used to manage different difficulties 
     
 -Example:**Celeste**'s Assist mode.
 
-* Punishing different amounts .
+<u>Punishing different amounts .</u>
 
 -This process consists of changing the affect of the players mistakes and how are percieved.
     * Pros: Player playing in harder difficulties will feel more tension while easier will be a lo more tolerable.
@@ -157,7 +157,7 @@ This are some of the different techniques used to manage different difficulties 
     
 -Example:**Metal Gear Solid 5 : The Phantom Pain** in different difficulties it punishes the same mistake harder, by the enemies spoting you faster in harder modes the game can punish the same mistake distinctly.    
 
-* Changing the patterns of enemies.
+<u>Changing the patterns of enemies.</u>
 
 -This process consists of using already seen enemies and changing the patterns of them in different difficulties or stages of the game.
     * Pros: Adds replayability by making different difficulties essentially different.
@@ -165,7 +165,7 @@ This are some of the different techniques used to manage different difficulties 
     
 -Example: **Kingdom Hearts 2**
 
-* Changin the position of enemies.
+<u>Changin the position of enemies.</u>
 
 -This process consists of changing the position of enemies giving or taking strategical advantage.
     * Pros: It ads depth to previous seen stages, makes things interesting to repeat, and you can reuse assest.
