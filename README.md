@@ -10,7 +10,11 @@ Videogames differently of other mainstream art forms are an interactive media, i
 
 Starting with a more general viewing of difficulty I propose an hypothetical: You face something unknown that opposes you and you have the objective to overcome it. This situation would be a challenge by definition, then, thinking about what variables would affect the difficulty of this challenge. The most basic things that can change are the knowledge of the user about the opposing situation and the ability of the user to physically overcome it. Like this we can divide the interaction of the user with the obstacle in 2 parts: how the user understands the situations (Knowdledge), ans the ability to execute the process necessary (Skill).
 
-IMAGE 2 DOOOOOO
+<p align="center">
+  <img src="https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Graphic.png" >
+</p>
+
+*Graphic of player-objective interaction*
 
 We can see difficulty as a "dialogue" between the user and this hardship, as a persons knowdlege and skill increases the difficulty of something lowers to the point that if you knew everything about something and the ability required to execute it, difficulty dissapears and this "dialogue" becomes a meaningless work.
 An example of this would be,if you know all the informtion in an exam and the ability to write , or you know all the patterns of an enemy and you have the ability to click the buttons precisely this becomes a trivial procedure.
@@ -121,6 +125,21 @@ But to sumarize, how people acts against others in a game has to be managed whil
 Difficulty curves are a visual representation of the difficulty of a game throughout the course of the experience.
 There are many diffirent types of difficulty curves that are affected by 4 factors: Accesibility, Time, Pacing, Difficulty Ceiling (Final level of skill and knowledge).
 This is not how the player will experience the games as much as the main idea of the design team of how hard to make every part in a general way.
+
+<p align="center">
+  <img src="https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Research.png" >
+</p>
+
+*General difficulty curve*
+
+In this example of a difficulty curve the game is divided in 3 parts: Introduction, the time you introduce the player to the game and how to play it; Main game, most of the game is situated in this curve, in this section the player is learning to play the game and the game should go increasing in difficulty while the player is getting more skilled; Late game, as the game is getting closer to the difficulty ceiling the player starts using all his accumulated experience to face the hardest challenges of the game, the player has to feel rewarded for his effort in the course of the game. The more difference there is between the starting difficulty of the game and the difficulty ceiling the more accessible the game will be.
+
+Next there is an example of the difficulty curve for **Dark Souls**
+<p align="center">
+  <img src="https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Research1.png" >
+</p>
+
+*Example of difficulty curve: **Dark Souls** *
 
 
 ## Mechanisms to altarete difficulty in games
