@@ -25,14 +25,15 @@ Accesibility is all about easing in the player into the game, explaining how the
 This does not mean you are doing the game overall easier, the idea is that more people will be able to play the game.
 
 <p align="center">
-  <https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/celeste3.jpg?raw=true" >
+  <img src= "https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/celeste3.jpg?raw=true" >
 </p> 
+                                                                                                      
 *Celeste's Assist mode*
 
 As I said before **Celeste**'s assist mode is a very good example of making a hard game inclusive to a lot of people 
 
 <p align="center">
-  <https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/KeybindingOptions.png?raw=true" >
+  <img src= "https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/KeybindingOptions.png?raw=true">
 </p>
 *League of Legends controller remapping system*
 
@@ -43,7 +44,7 @@ And **League of Legends** has quite a good controller mapping personalization, l
 Depth, the number of playable options that you have while playing a videogame, depth explains the practical complexity of a game. It's not about that the game has a lot of different things you can do in a game, is in how many ways you can solve a situation. In many videogames this is confused with adding different separated elements, that feel like the game is moslty "fluff".
 
 <p align="center">
-  <https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/ds3_20.02.jpg?raw=true" >
+  <img src=" https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/ds3_20.02.jpg?raw=true" >
 </p>
 *Dark Souls 3 character creation*
 
@@ -54,7 +55,7 @@ Fairness makes reference to the idea that videogames have laws and this laws are
 Making something unfair to make it harder is frustraiting but if you want to make a game difficult and frustraiting is a very good option, it might seem a way to shoot yourself on the foot and it is a very artificial way to make something difficult but it is an option.
 
 <p align="center">
-  <https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/iwbtg21.png?raw=true" >
+  <img src= "https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/iwbtg21.png?raw=true" >
 </p>
 *I wanna be the guy*
 
@@ -66,15 +67,16 @@ The more you forgive the mistakes of a player easier it will feel, the same way 
 But specially depending of what you want to make the player feel, you can have a lot of margin to try things to feel freedom ( **The Legend of Zelda: Breath of the Wild** ) or very fast respawn time to feel urgency ( **Super Meat Boy** ), or in plataformers like **Shovel Knight** if you fail it only sends you to the previous room and lets you recover part of your lose money so you can keep trying without a major pushback.
 
 <p align="center">
-  <https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Metal-Gear-Solid-V-The-Phantom-Pain-Screenshot-7_1.jpg?raw=true" >
+  <img src= "https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Metal-Gear-Solid-V-The-Phantom-Pain-Screenshot-7_1.jpg?raw=true" >
 </p>
 *Metal Gear Solid 5 : The Phantom Pain*
 
 In **Metal Gear Solid 5 : The Phantom Pain** and a lot of other stealth games, enemies do not spot you immediatly and that gives you a chance of correct your mistakes and create a more tense experience.
 
 In the other hand, punishing the player hardly, makes it think about its decisions and incentivises the player to play more strategically.
-
-<https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/438469404.jpg?raw=true" >
+<p align="center">
+< img src=" https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/438469404.jpg?raw=true" >
+ </p>
 *XCOM 2*
 
 **XCOM 2** the mechanic that soldiers die forever makes you act very carefully and not recklessly
@@ -86,7 +88,9 @@ Random elements also make the player not feel as bad when they lose because they
 
 (In this kind of games skill is not determined with how good you do in the game but with how consistent you can get results playing this game)
 
-<https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/apex-legends-diving.jpg?raw=true" >
+<p align="center">
+<img src="https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/apex-legends-diving.jpg?raw=true" >
+   </p>
 *Apex Legends*
 
 ### Multiplayer Games
@@ -100,8 +104,9 @@ There are a lot of differences betwen challenging a bot and a human, most import
 
 Thats how playing against good people feels frustraiting sometimes, people punishes other people as hard as possible and people obviously does not forgive mistakes. 
 But to sumarize, how people acts against others in a game has to be managed while you set all the otheraspects of the difficulty of the game.
-
-<https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/maxresdefault.jpg?raw=true" >
+<p align="center">
+<img src="https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/maxresdefault.jpg?raw=true" >
+  </p>
 *COD 4 match*
 
 ## Difficulty curves
