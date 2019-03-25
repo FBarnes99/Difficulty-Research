@@ -1,4 +1,6 @@
 # Difficulty Design in Videogames
+## Who Am I
+I am [Ferran Barnes](https://www.linkedin.com/in/ferran-barnes-garcia/), student of the [Bachelor’s Degree in Video Games by UPC at CITM ](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).
 
 ## Introduction
 
@@ -50,6 +52,7 @@ Depth, the number of playable options that you have while playing a videogame, d
 <p align="center">
   <img src= "https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/ds3_20.02.jpg?raw=true" >
 </p>
+
 *Dark Souls 3 character creation*
 
 **Dark Souls** although having a pretty simple game combat system, that would be rolling and hitting or shooting things. The game allows you to decide how to do this things in many ways, you can move slower and have more resistance, hit harder but hit less times than quicker weapons, etc.
@@ -87,7 +90,7 @@ On the other hand, punishing the player hardly, makes it think about its decisio
  
 *XCOM 2*
 
-**XCOM 2** the mechanic that soldiers die forever makes you act very carefully and not recklessly
+In **XCOM 2** the mechanic that soldiers die forever makes you act very carefully and not recklessly
 
 ### Randomness
 
@@ -222,41 +225,28 @@ This are some of the different techniques used to manage different difficulties 
 
 
 ### Resources
--Game Accessibility Guidelines - http://gameaccessibilityguidelines.com/
+[Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/)
 
--Reddit - https://www.reddit.com/r/NintendoSwitch/comments/7tkcen/how_is_celestes_assist_mode/
+[Reddit](https://www.reddit.com/r/NintendoSwitch/comments/7tkcen/how_is_celestes_assist_mode/)
 
--Game Wisdom Article - Depth in videogames http://game-wisdom.com/critical/depth-game-design
+[Game Wisdom Article - Depth in videogames](http://game-wisdom.com/critical/depth-game-design)
 
--Game Wisdom Article - Accessibility in the souls series http://game-wisdom.com/critical/souls-series-accessible
+[Game Wisdom Article - Accessibility in the souls series](http://game-wisdom.com/critical/souls-series-accessible)
 
--I wanna be the guy Main page - http://kayin.moe/iwbtg/index.php
+[I wanna be the guy Main page](http://kayin.moe/iwbtg/index.php)
 
--The Verge article - DeepMind’s AI agents conquer human pros at StarCraft II  - https://www.theverge.com/2019/1/24/18196135/google-deepmind-ai-starcraft-2-victory
+[The Verge article - DeepMind’s AI agents conquer human pros at StarCraft II](https://www.theverge.com/2019/1/24/18196135/google-deepmind-ai-starcraft-2-victory)
 
--Gamasutra Article - Difficulty curves - http://www.gamasutra.com/blogs/JimmyLarsen/20100524/5219/Difficulty_Curves.php
+[Gamasutra Article - Difficulty curves](http://www.gamasutra.com/blogs/JimmyLarsen/20100524/5219/Difficulty_Curves.php)
 
--Game Accessibility Guidelines - http://gameaccessibilityguidelines.com/
+[Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/)
 
--Playing Past Your Mistakes-Game Maker's Toolkit - https://www.youtube.com/watch?v=Go0BQugwGgM
+[Playing Past Your Mistakes-Game Maker's Toolkit](https://www.youtube.com/watch?v=Go0BQugwGgM)
 
--What Makes Celeste's Assist Mode Special - Game Maker's Toolkit - https://www.youtube.com/watch?v=NInNVEHj_G4
+[What Makes Celeste's Assist Mode Special - Game Maker's Toolkit](https://www.youtube.com/watch?v=NInNVEHj_G4)
 
--How Cuphead's Bosses (Try to) Kill You - Game Maker's Toolkit - https://www.youtube.com/watch?v=F8T6Ul4aHTI
+[How Cuphead's Bosses (Try to) Kill You - Game Maker's Toolkit](https://www.youtube.com/watch?v=F8T6Ul4aHTI)
 
 
-### Image Resources
-
-https://lahoradigital.com/noticia/18887/ciencia-y-tecnologia/el-gaming-estrategia-cada-vez-mas-presente-en-campanas-de-marketing.html
-
-https://support.riotgames.com/hc/en-us/articles/115005433708-Hotkeys-Keybindings-FAQ
-
-https://shreddest.wordpress.com/2011/10/25/i-wanna-be-the-guy/
-
-https://killscreen.com/articles/metal-gear-solid-v-phantom-pain-unending-battle/
-
-https://guides.gamepressure.com/xcom2/guide.asp?ID=41285
-
-https://www.usgamer.net/articles/19-03-2019-apex-legends-guide/wave-drop-method-explained
 
 
