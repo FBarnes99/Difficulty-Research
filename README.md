@@ -76,7 +76,7 @@ But specially depending of what you want to make the player feel, you can have a
 
 In **Metal Gear Solid 5 : The Phantom Pain** and a lot of other stealth games, enemies do not spot you immediatly and that gives you a chance of correct your mistakes and create a more tense experience.
 
-In the other hand, punishing the player hardly, makes it think about its decisions and incentivises the player to play more strategically.
+On the other hand, punishing the player hardly, makes it think about its decisions and incentivises the player to play more strategically.
 
 <p align="center">
 <img src= "https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/438469404.jpg?raw=true" >
