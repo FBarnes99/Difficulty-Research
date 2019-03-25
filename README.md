@@ -45,7 +45,7 @@ And **League of Legends** has quite a good controller mapping personalization, l
 Depth, the number of playable options that you have while playing a videogame, depth explains the practical complexity of a game. It's not about that the game has a lot of different things you can do in a game, is in how many ways you can solve a situation. In many videogames this is confused with adding different separated elements, that feel like the game is moslty "fluff".
 
 <p align="center">
-  <img src=" https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/ds3_20.02.jpg?raw=true" >
+  <img src= "https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/ds3_20.02.jpg?raw=true" >
 </p>
 *Dark Souls 3 character creation*
 
