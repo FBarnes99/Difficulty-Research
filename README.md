@@ -126,7 +126,7 @@ This is not how the player will experience the games as much as the main idea of
 
 This are some of the different techniques used to manage different difficulties in videogames.
 
-__Change Life and Damage of enemies.__
+###__Change Life and Damage of enemies.__
 
 -This process consists of changing the time that it takes to an enemie to die and the speed at which they kill you.
   
@@ -135,7 +135,7 @@ __Change Life and Damage of enemies.__
     
 -Example: **Skyrim**'s diffuclty selection. 
 
-__Different rewards.__
+###__Different rewards.__
 
 -This process consists of changing the rewards given to a player depending on performance.
 
@@ -144,7 +144,7 @@ __Different rewards.__
     
 -Example: **Tom Clancys Splinter Cell: Blacklist** gives symbolical rewards for stealth achievements.
 
-__Changing the rules of the game. __
+###__Changing the rules of the game. __
 
 -This process consists of changing the skill and experience required by the game for the player.
 
@@ -153,7 +153,7 @@ __Changing the rules of the game. __
     
 -Example:**Celeste**'s Assist mode.
 
-__Punishing different amounts .__
+###__Punishing different amounts .__
 
 -This process consists of changing the affect of the players mistakes and how are percieved.
 
@@ -162,7 +162,7 @@ __Punishing different amounts .__
     
 -Example:**Metal Gear Solid 5 : The Phantom Pain** in different difficulties it punishes the same mistake harder, by the enemies spoting you faster in harder modes the game can punish the same mistake distinctly.    
 
-__Changing the patterns of enemies.__
+###__Changing the patterns of enemies.__
 
 -This process consists of using already seen enemies and changing the patterns of them in different difficulties or stages of the game.
 
@@ -171,7 +171,7 @@ __Changing the patterns of enemies.__
     
 -Example: **Kingdom Hearts 2**
 
-__Changin the position of enemies.__
+###__Changin the position of enemies.__
 
 -This process consists of changing the position of enemies giving or taking strategical advantage.
 
