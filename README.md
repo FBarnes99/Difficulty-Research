@@ -35,6 +35,7 @@ As I said before **Celeste**'s assist mode is a very good example of making a ha
 <p align="center">
   <img src= "https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/KeybindingOptions.png?raw=true">
 </p>
+
 *League of Legends controller remapping system*
 
 And **League of Legends** has quite a good controller mapping personalization, letting you change everything that allows you to interact with the game.
@@ -57,6 +58,7 @@ Making something unfair to make it harder is frustraiting but if you want to mak
 <p align="center">
   <img src= "https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/iwbtg21.png?raw=true" >
 </p>
+
 *I wanna be the guy*
 
 The creators of **I wanna be the guy** wanted to make a difficult videogame so he filled with unfair things.
@@ -69,6 +71,7 @@ But specially depending of what you want to make the player feel, you can have a
 <p align="center">
   <img src= "https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Metal-Gear-Solid-V-The-Phantom-Pain-Screenshot-7_1.jpg?raw=true" >
 </p>
+
 *Metal Gear Solid 5 : The Phantom Pain*
 
 In **Metal Gear Solid 5 : The Phantom Pain** and a lot of other stealth games, enemies do not spot you immediatly and that gives you a chance of correct your mistakes and create a more tense experience.
@@ -77,6 +80,7 @@ In the other hand, punishing the player hardly, makes it think about its decisio
 <p align="center">
 < img src=" https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/438469404.jpg?raw=true" >
  </p>
+ 
 *XCOM 2*
 
 **XCOM 2** the mechanic that soldiers die forever makes you act very carefully and not recklessly
@@ -90,7 +94,8 @@ Random elements also make the player not feel as bad when they lose because they
 
 <p align="center">
 <img src="https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/apex-legends-diving.jpg?raw=true" >
-   </p>
+</p>
+
 *Apex Legends*
 
 ### Multiplayer Games
@@ -107,6 +112,7 @@ But to sumarize, how people acts against others in a game has to be managed whil
 <p align="center">
 <img src="https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/maxresdefault.jpg?raw=true" >
   </p>
+  
 *COD 4 match*
 
 ## Difficulty curves
