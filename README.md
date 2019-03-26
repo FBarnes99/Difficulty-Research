@@ -254,6 +254,13 @@ This are some of the different techniques used to manage different difficulties 
 
 [How Cuphead's Bosses (Try to) Kill You - Game Maker's Toolkit](https://www.youtube.com/watch?v=F8T6Ul4aHTI)
 
+[Difficulty in Videogames - Videogamedunkey](https://www.youtube.com/watch?v=A4_auMe1HsY)
+
+[Difficulty in Videogames 2 - Videogamedunkey](https://www.youtube.com/watch?v=MY-_dsTlosI)
+
+[When Difficult Is Fun - Challenging vs. Punishing Games - Extra Credits](https://www.youtube.com/watch?v=ea6UuRTjkKs&t=394s)
+
+[The True Genius of Dark Souls II - How to Approach Game Difficulty - Extra Credits](https://www.youtube.com/watch?v=MM2dDF4B9a4)
 
 
 
