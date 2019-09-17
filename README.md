@@ -1,32 +1,32 @@
-# Difficulty Design in Videogames
+# Difficulty Design in Video games
 ## Who Am I
 I am [Ferran Barnes](https://www.linkedin.com/in/ferran-barnes-garcia-a76bb7181), student of the [Bachelor’s Degree in Video Games by UPC at CITM ](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).
 
 ## Introduction
 
-Videogames differently of other mainstream art forms are an interactive media, in this interactivity is where the idea of difficulty is found. In this research I will try to analyse and explain the different aspects of diffficulty in videogames.
+Video games differently of other mainstream art forms are an interactive media, in this interactivity is where the idea of difficulty is found. In this research I will try to analyse and explain the different aspects of difficulty in video games.
 
 <p align="center">
   <img src="https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Gaming.jpg?raw=true" >
 </p>
 
-Starting with a more general viewing of difficulty I propose an hypothetical: You face something unknown that opposes you and you have the objective to overcome it. This situation would be a challenge by definition, then, thinking about what variables would affect the difficulty of this challenge. The most basic things that can change are the knowledge of the user about the opposing situation and the ability of the user to physically overcome it. Like this we can divide the interaction of the user with the obstacle in 2 parts: how the user understands the situations (Knowdledge), ans the ability to execute the process necessary (Skill).
+Starting with a more general viewing of difficulty I propose an hypothetical: You face something unknown that opposes you and you have the objective to overcome it. This situation would be a challenge by definition, then, thinking about what variables would affect the difficulty of this challenge. The most basic things that can change are the knowledge of the user about the opposing situation and the ability of the user to physically overcome it. Like this we can divide the interaction of the user with the obstacle in 2 parts: how the user understands the situations (Knowdledge), and the ability to execute the process necessary (Skill).
 
 <p align="center">
   <img src= "https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/Graphic.png?raw=true" >
 </p>
 *Graphic of player-objective interaction*
 
-We can see difficulty as a "dialogue" between the user and this hardship, as a persons knowdlege and skill increases the difficulty of something lowers to the point that if you knew everything about something and the ability required to execute it, difficulty dissapears and this "dialogue" becomes a meaningless work.
-An example of this would be,if you know all the informtion in an exam and the ability to write , or you know all the patterns of an enemy and you have the ability to click the buttons precisely this becomes a trivial procedure.
+We can see difficulty as a "dialogue" between the user and this hardship, as a person's knowledge and skill increases the difficulty of something lowers to the point that if you knew everything about something and the ability required to execute it, the difficulty disappears and this "dialogue" becomes a meaningless work.
+An example of this would be,if you know all the information in an exam and the ability to write , or you know all the patterns of an enemy and you have the ability to click the buttons precisely this becomes a trivial procedure.
 
 ## Design aspects that affect the feeling of difficulty
 
-Knowing this there are other design elements and methods that affect the feling of difficulty of the player.
+Knowing this there are other design elements and methods that affect the feeling of difficulty of the player.
 
 ### Accesibility
 
-Accesibility is all about easing in the player into the game, explaining how the mechanics of the game work with: tutorials (obvious or invisible), pathing slowlier the games slowlier so the player has more time to get used to it, etc. Or in other way, directly by making the game easier to play: include controller remapping in your game or even putting tools to make the game easier to play. For example, **Celeste** has an assist mode that allows you to basicly change the rules of the game, giving you extra jumps or slowing the game. 
+Accessibility is all about easing the player into the game, explaining how the mechanics of the game work with: tutorials (obvious or invisible), pacing slower the games so the player has more time to get used to it, etc. Or in other way, directly by making the game easier to play: includes controller remapping in your game or even putting tools to make the game easier to play. For example, **Celeste** has an assist mode that allows you to basically change the rules of the game, giving you extra jumps or slowing the game. 
 This does not mean you are doing the game overall easier, the idea is that more people will be able to play the game.
 
 <p align="center">
@@ -35,6 +35,7 @@ This does not mean you are doing the game overall easier, the idea is that more 
                                                                                                       
 *Celeste's Assist mode*
 
+*chek*
 As I said before **Celeste**'s assist mode is a very good example of making a hard game inclusive to a lot of people 
 
 <p align="center">
@@ -47,7 +48,7 @@ And **League of Legends** has quite a good controller mapping personalization, l
 
 ### Depth
 
-Depth, the number of playable options that you have while playing a videogame, depth explains the practical complexity of a game. It's not about that the game has a lot of different things you can do in a game, is in how many ways you can solve a situation. In many videogames this is confused with adding different separated elements, that feel like the game is moslty "fluff".
+Depth, the number of playable options that you have while playing a videogame, depth explains the practical complexity of a game. It's not about that the game has a lot of different things you can do in a game, is in how many ways you can solve a situation. In many videogames this is confused with adding different separated elements, that feel like the game is mostly "fluff".
 
 <p align="center">
   <img src= "https://github.com/FBarnes99/Difficulty_Research/blob/master/Nueva%20carpeta/ds3_20.02.jpg?raw=true" >
